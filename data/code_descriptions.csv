@@ -1,0 +1,58 @@
+code_value,code_description,type
+97530,Therapeutic activity - functional,Procedure
+97110,Therapeutic exercise - strength,Procedure
+99456,Independent Medical Exam,Procedure
+99199,Unlisted special,Procedure
+99421,Telehealth under 10 mins,HOLD
+99422,Telehealth GT 10 LT 20 mins,Procedure
+99423,Telehealth more than 20 mins,Procedure
+G89.4,Chronic pain syndrome,Diagnosis
+00071101268,Lyrica,Drug
+00071101341,Lyrica,Drug
+00071101368,Lyrica,Drug
+00071101441,Lyrica,Drug
+00071101468,Lyrica,Drug
+00071101541,Lyrica,Drug
+00071101568,Lyrica,Drug
+00071101641,Lyrica,Drug
+00071101668,Lyrica,Drug
+00071101768,Lyrica,Drug
+00071101868,Lyrica,Drug
+00071101968,Lyrica,Drug
+00071102001,Lyrica,Drug
+00406012505,Opioid,Drug
+00603388732,Opioid,Drug
+00406012501,Opioid,Drug
+16714033002,Gabapentin,Drug
+68462012605,Gabapentin,Drug
+67877022310,Gabapentin,Drug
+16714033202,Gabapentin,Drug
+68001000600,Gabapentin,Drug
+68462012605,Gabapentin,Drug
+16714033002,Gabapentin,Drug
+57237001899,Duloxetine Hydrochloride,Drug
+A,"Certain infectious and parasitic diseases",Diagnosis Chapter
+B,"Certain infectious and parasitic diseases",Diagnosis Chapter
+C,"Neoplasms; Diseases of blood / blood-forming organs & certain disorders involving the immune mechanism",Diagnosis Chapter
+D,"Neoplasms; Diseases of blood / blood-forming organs & certain disorders involving the immune mechanism",Diagnosis Chapter
+E,"Endocrine, nutritional and metabolic diseases",Diagnosis Chapter
+F,"Mental, Behavioral and Neurodevelopmental disorders",Diagnosis Chapter
+G,"Diseases of the nervous system",Diagnosis Chapter
+H,"Diseases of the eye and adnexa; Diseases of the ear and mastoid process",Diagnosis Chapter
+I,"Diseases of the circulatory system",Diagnosis Chapter
+J,"Diseases of the respiratory system",Diagnosis Chapter
+K,"Diseases of the digestive system",Diagnosis Chapter
+L,"Diseases of the skin and subcutaneous tissue",Diagnosis Chapter
+M,"Diseases of the musculoskeletal system and connective tissue",Diagnosis Chapter
+N,"Diseases of the genitourinary system",Diagnosis Chapter
+O,"Pregnancy, childbirth and the puerperium",Diagnosis Chapter
+P,"Certain conditions originating in the perinatal period",Diagnosis Chapter
+Q,"Congenital malformations, deformations and chromosomal abnormalities",Diagnosis Chapter
+R,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Diagnosis Chapter
+S,"Injury, poisoning and certain other consequences of external causes",Diagnosis Chapter
+T,"Injury, poisoning and certain other consequences of external causes",Diagnosis Chapter
+V,"External causes of morbidity",Diagnosis Chapter
+W,"External causes of morbidity",Diagnosis Chapter
+X,"External causes of morbidity",Diagnosis Chapter
+Y,"External causes of morbidity",
+Z,"Factors influencing health status and contact with health services",Diagnosis Chapter
